@@ -1,3 +1,5 @@
-curso de git y github platzi
+curso de git y github platzi 2021
 
 aprendiendo programacion en platzi
+
+estudiante de desarrollo web full stack en acamica
